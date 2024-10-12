@@ -98,8 +98,8 @@
     },
     "AutoReaction": {
       "description": "Make it true if you want bot to react on chats",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
